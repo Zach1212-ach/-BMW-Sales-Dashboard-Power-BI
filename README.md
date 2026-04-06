@@ -7,7 +7,7 @@ A Power BI dashboard analyses BMW sales performance by area, model, and market t
 ## 📊 Dashboard Pages
 
 ### 1. Executive Overview
-![Executive Overview](executive_overview.PNG)
+![Executive Summary](Executive_Summary)
 
 - 💰 **Total Revenue** — overall sales revenue KPI card
 - 📦 **Total Units Sold** — volume of cars sold
@@ -20,7 +20,7 @@ A Power BI dashboard analyses BMW sales performance by area, model, and market t
 ---
 
 ### 2. Sales Analysis
-![Sales Analysis](sales_analysis.PNG)
+![Sales Analysis](Sales_Analysis.PNG)
 
 - **Revenue by Model** — ranked bar chart across BMW models
 - **Units Sold by Month and Region** — clustered column chart
@@ -30,7 +30,7 @@ A Power BI dashboard analyses BMW sales performance by area, model, and market t
 ---
 
 ### 3. Market Insights
-![Market Insights](market_insights.PNG)
+![Market Analysis](Market_Analysis.PNG)
 
 - **Electric Vehicle Adoption Trend** — line chart showing EV growth
 - **Revenue vs GDP Growth** — scatter chart (macro correlation)
@@ -73,4 +73,4 @@ A Power BI dashboard analyses BMW sales performance by area, model, and market t
 
 1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
 2. Clone or download this repository
-3. Open `Bmw_sales_project_1.pbix` in Power BI Desktop
+3. Open `Bmw_sales_project.pbix` in Power BI Desktop
