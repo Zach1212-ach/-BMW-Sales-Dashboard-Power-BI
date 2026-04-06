@@ -1,10 +1,7 @@
 # 🚗 BMW Sales Dashboard – Power BI
 
 ## 📌 Project Overview
-An interactive Power BI dashboard analyzing BMW sales performance across
-regions, models, and market trends. The report covers revenue KPIs,
-unit sales patterns, and macroeconomic market insights across 3 report pages.
-
+A Power BI dashboard analyses BMW sales performance by area, model, and market trends. Over the course of three report pages, the research discusses macroeconomic market insights, unit sales trends, and revenue KPIs.
 ---
 
 ## 📊 Dashboard Pages
